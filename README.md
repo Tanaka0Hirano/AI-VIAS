@@ -16,7 +16,8 @@ Computer based Assistance AI, on Terminal-based input.
     + simple math.
     + open link.
     + search (google, youtube, wiki)
-    + Explore file system in your computer set by path directory. can be create, edit, delete, rename, open file/folder (in and out of terminal).
+
+- Explore file system in your computer set by path directory. can be create, edit, delete, rename, open file/folder (in and out of terminal).
     + and more...
 
 # Everyone favorite:
